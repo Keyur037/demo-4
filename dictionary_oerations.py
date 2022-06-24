@@ -1,4 +1,4 @@
-people={'Arham':'Blue','Lisa':'Yellow','Vinod':'Purple','Jenny':'Pink'}
+people={'Arham':'Red','Lisa':'White','Vinod':'Blue','Jenny':'Green'}
 k=[]
 
 #print total no. of student
